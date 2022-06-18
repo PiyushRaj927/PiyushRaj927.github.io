@@ -43,7 +43,7 @@ fi
 
 ```
 
-######  `removed_files.log
+######  `removed_files.log`
 It contains the log written by `clean.sh`
 ```text
 Running cleanup script:  nothing to delete
